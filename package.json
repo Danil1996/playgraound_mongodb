@@ -1,0 +1,23 @@
+{
+  "name": "playgraound_mongodb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Danil1996/playgraound_mongodb.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Danil1996/playgraound_mongodb/issues"
+  },
+  "homepage": "https://github.com/Danil1996/playgraound_mongodb#readme",
+  "dependencies": {
+    "mongodb": "^3.6.4"
+  }
+}
